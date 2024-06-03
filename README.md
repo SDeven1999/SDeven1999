@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SDeven1999
-- 👀 I’m interested in Web Development, Business
-- 🌱 I have completed my Engineering
+- 👋 Hi, I’m @Devendra Kumar sah
+- 👀 I’m interested in Web Development, Business, Trading
+- 🌱 I have completed my Engineering( Computer Science and Enginneering)
 - 💞️ I’m looking to collaborate on WedApp
 - 📫 Reached me thorough gmail-sahdeven01@gmail.com
 
