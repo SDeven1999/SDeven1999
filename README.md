@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devendra Kumar sah
 - 👀 I’m interested in Web Development, Business, ShareMarket, IOT, Cybersecurity
-- 🌱 I have completed my Engineering (Computer Science and Enginneering)
+- 🌱 I have completed my Engineering (Computer Science and Engineering)
 - 💞️ I’m looking to collaborate on WebApp
 - 📫 Reached me thorough gmail-sahdeven01@gmail.com
 
